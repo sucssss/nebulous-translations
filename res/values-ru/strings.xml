@@ -1211,7 +1211,7 @@
     <string name="Search_Filter">Фильтры поиска</string>
     <string name="Received_">Получено:</string>
     <string name="Opponent_Rating_Limit_">Предел рейтинга противника:</string>
-    <string name="TOGGLE_FAVORITE">Добавить / Убрать (избранный скин)</string>
+    <string name="TOGGLE_FAVORITE">Добавить/убрать скин в избранное</string>
     <string name="Favorited"> Добавлено в избранные</string>
     <string name="Unfavorited">Убранно из избранных</string>
     <string name="Background_Scale_">Размер фона игры:</string>
@@ -1343,7 +1343,7 @@
 
 Если вы не хотите входить в систему, вы все равно можете играть в одиночную игру."
     </string>
-    <string name="_2x_skin_resolution">2x Скин Разрешение</string>
+    <string name="_2x_skin_resolution">2x разрешение скина</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Вы уже друзья.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Для отправки почты аккаунт должен быть старше 1 дня.</string>
