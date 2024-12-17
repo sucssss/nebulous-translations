@@ -39,7 +39,7 @@
     <string name="Score__">"Счёт: "</string>
     <string name="Recombine_">"Соединение: "</string>
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
-    <string name="IDLE">"ОФЛАЙН"</string>
+    <string name="IDLE">"НЕ В СЕТИ"</string>
     <string name="Name_Invalid_">"Имя недействительно."</string>
     <string name="Name_Taken_">"Имя уже занято."</string>
     <string name="CONNECTED">"Подключение"</string>
