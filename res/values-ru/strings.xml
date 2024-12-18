@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+took<?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="Players">"Игроки"</string>
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"Огромный"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
